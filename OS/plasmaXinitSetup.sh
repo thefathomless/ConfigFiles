@@ -1,5 +1,5 @@
 cd ~
-sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin konsole fish neofetch git
+sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin alacritty fish neofetch git
 curl https://raw.githubusercontent.com/thefathomless/ConfigFiles/main/Apps/Vim/.vimrc.txt > .vimrc
 touch .xinitrc
 cat > .xinitrc << EOF
