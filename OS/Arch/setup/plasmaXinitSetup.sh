@@ -1,6 +1,6 @@
-sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin fish
+sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin konsole fish
 touch .xinitrc
-echo > .xinitrc << EOF
+cat > .xinitrc << EOF
 #!/bin/sh
 
 userresources=\$HOME/.Xresources
@@ -28,5 +28,7 @@ fi
 
 exec startplasma-x11
 EOF
+
+
 
 chsh -s /bin/fish
