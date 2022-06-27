@@ -1,4 +1,6 @@
-sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin konsole fish
+cd ~
+sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin konsole fish neofetch git
+curl https://raw.githubusercontent.com/thefathomless/ConfigFiles/main/Apps/Vim/.vimrc.txt > .vimrc
 touch .xinitrc
 cat > .xinitrc << EOF
 #!/bin/sh
@@ -32,3 +34,4 @@ EOF
 
 
 chsh -s /bin/fish
+startx
