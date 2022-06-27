@@ -34,4 +34,4 @@ EOF
 
 
 chsh -s /bin/fish
-startx
+echo "To enter the GUI type 'startx' to finish changing the shell you should restart"
