@@ -1,0 +1,1 @@
+these go in ~/.config/cataclysm-dda

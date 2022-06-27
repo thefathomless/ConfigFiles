@@ -1,0 +1,1 @@
+.vimrc must be places in home directory
