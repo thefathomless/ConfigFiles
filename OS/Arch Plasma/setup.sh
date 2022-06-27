@@ -1,4 +1,4 @@
-sudo pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin fish
+pacman --noconfirm -S xorg xorg-xinit plasma firefox vim htop dolphin fish
 touch .xinitrc
 cat > .xinitrc << EOF
 #!/bin/sh
