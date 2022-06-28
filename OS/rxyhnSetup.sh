@@ -62,9 +62,9 @@ cd ~
 
 cd .config/awesome
 
-git clone https://github.com/BlingCorp/bling.git
-git clone https://github.com/andOrlando/color.git
-git clone https://github.com/xinhaoyuan/layout-machi.git
+git clone https://github.com/BlingCorp/bling
+git clone https://github.com/andOrlando/color
+git clone https://github.com/xinhaoyuan/layout-machi
 git clone https://github.com/Aire-One/awesome-battery_widget
 
 reboot
