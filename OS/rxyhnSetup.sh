@@ -1,5 +1,6 @@
 sudo pacman -S xorg xorg-xinit alacritty vim firefox git base-devel
 
+cd ~
 cat > .xinitrc << EOF
 #!/bin/sh
 
