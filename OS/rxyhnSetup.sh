@@ -1,4 +1,4 @@
-pacman --noconfirm -S xorg xorg-xinit alacritty vim firefox git base-devel
+sudo pacman --noconfirm -S xorg xorg-xinit alacritty vim firefox git base-devel
 
 cd ~
 cat > .xinitrc << EOF
