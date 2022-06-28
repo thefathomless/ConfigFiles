@@ -1,4 +1,4 @@
-sudo pacman -S xorg xorg-xinit alacritty vim firefox git base-devel
+pacman --noconfirm -S xorg xorg-xinit alacritty vim firefox git base-devel
 
 cd ~
 cat > .xinitrc << EOF
@@ -34,7 +34,7 @@ git clone https://aur.archlinux.org/paru.git
 cd paru
 makepkg -sri
 
-paru -S awesome-git picom-git wezterm rofi acpi acpid acpi_call upower lxappearance-gtk3 jq inotify-tools polkit-gnome xdotool xclip gpick ffmpeg blueman redshift pamixer brightnessctl feh scrot mpv mpd mpc mpdris2 python-mutagen ncmpcpp playerctl --needed
+paru --noconfirm -S awesome-git picom-git wezterm rofi acpi acpid acpi_call upower lxappearance-gtk3 jq inotify-tools polkit-gnome xdotool xclip gpick ffmpeg blueman redshift pamixer brightnessctl feh scrot mpv mpd mpc mpdris2 python-mutagen ncmpcpp playerctl --needed
 
 systemctl --user enable mpd.service
 systemctl --user start mpd.service
@@ -67,3 +67,4 @@ git clone https://github.com/andOrlando/color.git
 git clone https://github.com/xinhaoyuan/layout-machi.git
 git clone https://github.com/Aire-One/awesome-battery_widget
 
+reboot
