@@ -38,6 +38,8 @@ paru -S awesome-git picom-git wezterm rofi acpi acpid acpi_call upower lxappeara
 systemctl --user enable mpd.service
 systemctl --user start mpd.service
 
+cd ~
+
 git clone https://github.com/rxyhn/dotfiles.git
 
 mkdir .config 
@@ -63,5 +65,4 @@ git clone https://github.com/BlingCorp/bling.git
 git clone https://github.com/andOrlando/color.git
 git clone https://github.com/xinhaoyuan/layout-machi.git
 git clone https://github.com/Aire-One/awesome-battery_widget
-
 
