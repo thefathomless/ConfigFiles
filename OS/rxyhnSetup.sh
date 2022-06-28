@@ -56,7 +56,7 @@ cp -r config/* ~/.config/
 cp -r misc/fonts/* ~/.fonts/
 cp -r misc/fonts/* ~/.local/share/fonts/
 
-fc-cache -vim
+fc-cache -v
 
 cd ~
 
