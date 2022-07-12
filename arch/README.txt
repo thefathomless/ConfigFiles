@@ -1,0 +1,1 @@
+This assumes you chose minmal install in the installer and set up audio.
