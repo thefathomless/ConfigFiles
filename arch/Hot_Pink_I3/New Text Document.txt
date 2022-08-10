@@ -12,3 +12,4 @@ nitrogen
 polybar
 neofetch
 picom
+lxappearance
