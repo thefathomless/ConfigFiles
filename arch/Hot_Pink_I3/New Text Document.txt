@@ -1,1 +1,3 @@
 pink as heck vscode theme
+
+Kitty Pink Theme
