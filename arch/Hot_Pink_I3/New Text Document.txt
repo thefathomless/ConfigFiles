@@ -1,5 +1,7 @@
 pink as heck vscode theme
 
+Default resolution is 1920x1080 this can be changed in i3's config
+
 Kitty Pink Theme
 
 dependencies
@@ -9,3 +11,4 @@ dmenu
 nitrogen
 polybar
 neofetch
+picom
