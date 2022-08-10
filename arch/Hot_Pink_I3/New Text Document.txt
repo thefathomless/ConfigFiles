@@ -1,3 +1,8 @@
 pink as heck vscode theme
 
 Kitty Pink Theme
+
+dependencies
+i3-gaps
+i3status
+dmenu
