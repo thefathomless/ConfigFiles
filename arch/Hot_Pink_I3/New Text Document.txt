@@ -4,6 +4,11 @@ Default resolution is 1920x1080 this can be changed in i3's config
 
 Kitty Pink Theme
 
+Start by copying the dotfiles into .config
+set background if wanted
+set firefox theme as Pixel Storm in Hot Pink
+set lxappearance to Ark-Dark
+
 dependencies
 i3-gaps
 i3status
@@ -11,5 +16,7 @@ dmenu
 nitrogen
 polybar
 neofetch
+lolcat
 picom
 lxappearance
+arc-gtk-theme
