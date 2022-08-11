@@ -7,6 +7,7 @@ Kitty Pink Theme
 Start by copying the dotfiles into .config
 set background if wanted
 set firefox theme as Pixel Storm in Hot Pink
+set pink as heck vscode theme
 set lxappearance to Ark-Dark
 
 dependencies
