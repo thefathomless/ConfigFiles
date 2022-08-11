@@ -16,7 +16,7 @@ dependencies
 i3-gaps
 i3status
 dmenu
-nitrogen
+feh
 polybar
 neofetch
 lolcat
