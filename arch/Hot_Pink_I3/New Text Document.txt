@@ -4,8 +4,6 @@ Default resolution is 1920x1080 this can be changed in i3's config
 
 Kitty Pink Theme
 
-This uses multiple backgrounds so put all of theme (or the ones required) in the folder in your home directory named "Backgrounds"
-
 Start by copying the dotfiles into .config
 set background if wanted
 set firefox theme as Pixel Storm in Hot Pink
