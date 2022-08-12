@@ -21,3 +21,4 @@ lolcat
 picom
 lxappearance
 arc-gtk-theme
+gtk-engine-murrine
