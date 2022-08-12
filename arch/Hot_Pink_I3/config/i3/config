@@ -123,11 +123,12 @@ set $ws10 "10"
 set $ws11 "11"
 set $ws12 "12"
 set $ws13 "13"
+set $ws14 "14"
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1; exec feh --bg-fill ~/.Backgrounds/Purple-Clouds.png
 bindsym $mod+2 workspace number $ws2; exec feh --bg-fill ~/.Backgrounds/Pink-Ruins.jpg
-bindsym $mod+3 workspace number $ws3
+bindsym $mod+3 workspace number $ws3; exec feh --bg-fill ~/.Backgrounds/Solid_Black.jpg
 bindsym $mod+4 workspace number $ws4
 bindsym $mod+5 workspace number $ws5
 bindsym $mod+6 workspace number $ws6
@@ -138,6 +139,7 @@ bindsym $mod+0 workspace number $ws10
 bindsym $mod+Control+1 workspace number $ws11; exec feh --bg-fill ~/.Backgrounds/Goth_Cat_Girl.jpg
 bindsym $mod+Control+2 workspace number $ws12; exec feh --bg-fill ~/.Backgrounds/Goth_Galaxy.jpg
 bindsym $mod+Control+3 workspace number $ws13; exec feh --bg-fill ~/.Backgrounds/HoodieCatgirl.jpg
+bindsym $mod+Control+4 workspace number $ws14; exec feh --bg-fill ~/.Backgrounds/Solid_Black.jpg
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
