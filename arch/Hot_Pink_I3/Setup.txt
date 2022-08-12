@@ -2,15 +2,14 @@ pink as heck vscode theme
 
 Default resolution is 1920x1080 this can be changed in i3's config
 
-Kitty Pink Theme
-
-This uses multiple backgrounds so put all of theme (or the ones required) in the folder in your home directory named "Backgrounds"
-
 Start by copying the dotfiles into .config
+Extract zip file into home directory (it should end up with ~/.Backgrounds/ then inside a bunch of pictures
+change shell to fish "chsh -s /bin/fish"
+change kitty to pink theme "kitty +kitten themes" (it will be in user)
 set background if wanted
 set firefox theme as Pixel Storm in Hot Pink
 set pink as heck vscode theme
-set lxappearance to Ark-Dark
+set lxappearance to orchis-Pink-Dark
 
 dependencies
 i3-gaps
@@ -22,4 +21,6 @@ neofetch
 lolcat
 picom
 lxappearance
-arc-gtk-theme
+gtk-engine-murrine
+orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme)
+papirus-icon-theme
