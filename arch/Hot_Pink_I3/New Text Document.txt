@@ -8,7 +8,7 @@ change kitty to pink theme "kitty +kitten themes" (it will be in user)
 set background if wanted
 set firefox theme as Pixel Storm in Hot Pink
 set pink as heck vscode theme
-set lxappearance to Ark-Dark
+set lxappearance to orchis-Pink-Dark
 
 dependencies
 i3-gaps
@@ -20,6 +20,6 @@ neofetch
 lolcat
 picom
 lxappearance
-arc-gtk-theme
 gtk-engine-murrine
+orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme)
 papirus-icon-theme
