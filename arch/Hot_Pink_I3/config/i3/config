@@ -135,9 +135,9 @@ bindsym $mod+7 workspace number $ws7
 bindsym $mod+8 workspace number $ws8
 bindsym $mod+9 workspace number $ws9
 bindsym $mod+0 workspace number $ws10
-bindsym $mod+Control+1 workspace number $ws11
-bindsym $mod+Control+2 workspace number $ws12
-bindsym $mod+Control+3 workspace number $ws10
+bindsym $mod+Control+1 workspace number $ws11; exec feh --bg-fill ~/.Backgrounds/Goth_Cat_Girl.jpg
+bindsym $mod+Control+2 workspace number $ws12; exec feh --bg-fill ~/.Backgrounds/Goth_Galaxy.jpg
+bindsym $mod+Control+3 workspace number $ws10; exec feh --bg-fill ~/.Backgrounds/HoodieCatgirl.jpg
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace number $ws1
