@@ -192,6 +192,8 @@ gaps inner 10
 gaps outer 5
 
 # Starts some programs
+
+#Only Works in VMs change it with xrandr -s (your resolution)
 exec xrandr --output Virtual1 --mode 1920x1080
 
 exec --no-startup-id picom -cb --experimental-backends
