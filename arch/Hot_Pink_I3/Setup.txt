@@ -9,7 +9,7 @@ change kitty to pink theme "kitty +kitten themes" (it will be in user)
 set firefox theme as Pixel Storm in Hot Pink
 set pink as heck vscode theme
 set lxappearance to set orchis-Pink-Dark and Papirus-Dark
-set rofi appearance to purple 
+set rofi appearance to purple with rofi-theme-selector
 
 dependencies
 i3-gaps
