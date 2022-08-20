@@ -22,9 +22,10 @@ neofetch
 lolcat
 picom
 lxappearance
-gtk-engine-murrine
 orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme)
 papirus-icon-theme
 rofi
 
 network-manager-applet
+
+gtk-engine-murrine --not needed?
