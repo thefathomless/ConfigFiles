@@ -18,6 +18,7 @@ dmenu
 feh
 polybar
 neofetch
+git
 lolcat
 kitty
 gtk-engine-murrine
