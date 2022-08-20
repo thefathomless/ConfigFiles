@@ -201,7 +201,7 @@ exec xrandr -s 1920x1080
 
 exec --no-startup-id picom -cb --experimental-backends
 exec unclutter &
-exec feh --bg-fill ~/Backgrounds/Purple_Clouds.png
+exec feh --bg-fill ~/.Backgrounds/Purple_Clouds.png
 exec polybar 
 exec colorblocks
 exec xfce4-power-manager&
