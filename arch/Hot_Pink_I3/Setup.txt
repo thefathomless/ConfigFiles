@@ -24,7 +24,7 @@ gtk-engine-murrine
 sassc
 picom
 lxappearance
-orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme. If downloading from github run install.sh)
+orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme. If downloading from github run "./install.sh -t pink)
 papirus-icon-theme
 rofi
 fish
