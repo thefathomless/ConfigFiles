@@ -20,6 +20,8 @@ polybar
 neofetch
 lolcat
 kitty
+gtk-engine-murrine
+sassc
 picom
 lxappearance
 orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme)
@@ -28,5 +30,3 @@ rofi
 fish
 
 network-manager-applet
-
-gtk-engine-murrine --not needed?
