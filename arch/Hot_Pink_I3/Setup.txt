@@ -29,4 +29,8 @@ papirus-icon-theme
 rofi
 fish
 
+vim
+firefox
+
+
 network-manager-applet
