@@ -25,6 +25,7 @@ lxappearance
 orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme)
 papirus-icon-theme
 rofi
+fish
 
 network-manager-applet
 
