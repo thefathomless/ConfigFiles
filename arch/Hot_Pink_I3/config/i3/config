@@ -206,4 +206,5 @@ exec feh --bg-fill ~/.Backgrounds/Purple_Clouds.png
 exec polybar 
 exec colorblocks
 exec xfce4-power-manager&
-exec "xautolock -detectsleep -time 1 -locker \"i3lock -c 000000 --no-unlock-indicator\""
+#This will lock the computer after 1 minute. disabled by defualt
+#exec "xautolock -detectsleep -time 1 -locker \"i3lock -c 000000 --no-unlock-indicator\""
