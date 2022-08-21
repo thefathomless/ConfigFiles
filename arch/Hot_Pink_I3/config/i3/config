@@ -161,7 +161,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+x exit
-bindsym $mod+z exec i3lock -c 000000
+bindsym $mod+z exec i3lock -c 000000 --no-unlock-indicator
 # resize window (you can also use the mouse for that)
 mode "resize" {
         # These bindings trigger as soon as you enter the resize mode
@@ -206,4 +206,4 @@ exec feh --bg-fill ~/.Backgrounds/Purple_Clouds.png
 exec polybar 
 exec colorblocks
 exec xfce4-power-manager&
-exec "xautolock -detectsleep -time 3 -locker \"i3lock -c 000000\""
+exec "xautolock -detectsleep -time 1 -locker \"i3lock -c 000000 --no-unlock-indicator\""
