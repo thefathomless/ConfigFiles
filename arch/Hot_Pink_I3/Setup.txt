@@ -16,6 +16,7 @@ i3-gaps
 i3status
 dmenu
 feh
+picom
 polybar
 neofetch
 git
