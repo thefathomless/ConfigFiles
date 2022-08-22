@@ -31,6 +31,7 @@ orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme. If down
 papirus-icon-theme
 rofi
 fish
+mate-power-manager
 
 vim
 firefox
