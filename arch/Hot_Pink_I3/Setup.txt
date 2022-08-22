@@ -32,6 +32,7 @@ papirus-icon-theme
 rofi
 fish
 mate-power-manager
+xss-lock
 
 vim
 firefox
