@@ -13,3 +13,9 @@ polybar -c /path/to/file bar1 &
 polybar -c /path/to/file bar2 &
 
 echo "Bars launched..."
+
+
+
+To Do:
+make install script
+Edex-UI
