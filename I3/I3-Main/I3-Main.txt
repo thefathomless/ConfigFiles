@@ -19,3 +19,4 @@ echo "Bars launched..."
 To Do:
 make install script
 Edex-UI
+Conky
