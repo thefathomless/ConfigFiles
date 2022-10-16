@@ -12,7 +12,7 @@ set lxappearance to set orchis-Pink-Dark and Papirus-Dark
 set rofi appearance to purple with rofi-theme-selector
 
 dependencies
-i3-gaps i3status i3lock dmenu feh picom polybar neofetch git lolcat kitty gtk-engine-murrine sassc picom lxappearance papirus-icon-theme rofifish mate-power-manager xss-lock network-manager-applet
+i3-gaps i3status i3lock dmenu feh picom polybar neofetch git lolcat kitty gtk-engine-murrine sassc picom lxappearance papirus-icon-theme rofi fish mate-power-manager xss-lock network-manager-applet
 orchis-theme (aur or github https://github.com/vinceliuice/Orchis-theme. If downloading from github run "./install.sh -t pink)
 
 vim
