@@ -2,6 +2,8 @@ pink as heck vscode theme
 
 Default resolution is 1920x1080 this can be changed in i3's config if using a vm
 
+cp /etc/X11/xinit/xinitrc ~/.xinitrc
+delete bottom lines and type "exec i3" at the bottom of xinitrc
 Start by copying the dotfiles into .config
 Extract zip file into home directory (it should end up with ~/.Backgrounds/ then inside a bunch of pictures
 change shell to fish "chsh -s /bin/fish"
